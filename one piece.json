@@ -4,5 +4,14 @@
   "artist": "",
   "author": "",
   "cover": "",
-  "chapters": {}
+  "chapters": {
+    "1": {
+      "title": "1",
+      "volume": "",
+      "last_updated": "1695575318",
+      "groups": {
+        "": "/proxy/api/mangadex/chapter/6310f6a1-17ee-4890-b837-2ec1b372905b"
+      }
+    }
+  }
 }
